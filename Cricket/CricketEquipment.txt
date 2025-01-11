@@ -1,0 +1,6 @@
+Cricket uses many equipments.
+1. Bat 
+2. Ball
+3. Stumps
+4. Helmet and etc.
+
